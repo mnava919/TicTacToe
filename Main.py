@@ -201,7 +201,7 @@ elif m9 == "g":
 elif m9 == "h":
     h = "O"
 elif m9 == "i":
-    i = "O"
+    i = "X"
 
 # Displays final board
 print("|---|---|---|")
