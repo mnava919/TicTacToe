@@ -14,7 +14,7 @@ print("|---|---|---|")
 # Determines players moves
 print("move 1")
 m1 = input()
-if m1 == "a":
+if m1 == "a"
     a = "X"
 
 elif m1 == "b":
