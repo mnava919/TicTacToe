@@ -32,7 +32,7 @@ elif m1 == "g":
 elif m1 == "h":
     h = "O"
 elif m1 == "i":
-    i = "O"
+    i = "X"
 
 print("move 2")
 m2 = input()
@@ -53,7 +53,7 @@ elif m2 == "g":
 elif m2 == "h":
     h = "O"
 elif m2 == "i":
-    i = "O"
+    i = "X"
 
 print("move 3")
 m3 = input()
@@ -74,7 +74,7 @@ elif m3 == "g":
 elif m3 == "h":
     h = "O"
 elif m3 == "i":
-    i = "O"
+    i = "X"
 
 print("move 4")
 m4 = input()
@@ -95,7 +95,7 @@ elif m4 == "g":
 elif m4 == "h":
     h = "O"
 elif m4 == "i":
-    i = "O"
+    i = "X"
 
 print("move 5")
 m5 = input()
@@ -116,7 +116,7 @@ elif m5 == "g":
 elif m5 == "h":
     h = "O"
 elif m5 == "i":
-    i = "O"
+    i = "X"
 
 print("move 6")
 m6 = input()
@@ -137,7 +137,7 @@ elif m6 == "g":
 elif m6 == "h":
     h = "O"
 elif m6 == "i":
-    i = "O"
+    i = "X"
 
 print("move 7")
 m7 = input()
@@ -158,7 +158,7 @@ elif m7 == "g":
 elif m7 == "h":
     h = "O"
 elif m7 == "i":
-    i = "O"
+    i = "X"
 
 print("move 8")
 m8 = input()
@@ -179,7 +179,7 @@ elif m8 == "g":
 elif m8 == "h":
     h = "O"
 elif m8 == "i":
-    i = "O"
+    i = "X"
 
 print("move 9")
 m9 = input()
