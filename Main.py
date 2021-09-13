@@ -2,6 +2,9 @@
 # TicTacToe
 # 09/09/2021
 
+from tkinter import *
+root = Tk()
+
 # Display board
 print("|---|---|---|")
 print("| a | b | c |")
@@ -16,191 +19,189 @@ print("move 1")
 m1 = input()
 if m1 == "a":
     a = "X"
-
-elif m1 == "b":
-    b = "O"
-elif m1 == "c":
+if m1 == "b":
+    b = "X"
+if m1 == "c":
     c = "X"
-elif m1 == "d":
-    d = "O"
-elif m1 == "e":
+if m1 == "d":
+    d = "X"
+if m1 == "e":
     e = "X"
-elif m1 == "f":
-    f = "O"
-elif m1 == "g":
+if m1 == "f":
+    f = "X"
+if m1 == "g":
     g = "X"
-elif m1 == "h":
-    h = "O"
-elif m1 == "i":
+if m1 == "h":
+    h = "X"
+if m1 == "i":
     i = "X"
 
 print("move 2")
 m2 = input()
 if m2 == "a":
-    a = "X"
-elif m2 == "b":
+    a = "O"
+if m2 == "b":
     b = "O"
-elif m2 == "c":
-    c = "X"
-elif m2 == "d":
+if m2 == "c":
+    c = "O"
+if m2 == "d":
     d = "O"
-elif m2 == "e":
-    e = "X"
-elif m2 == "f":
+if m2 == "e":
+    e = "O"
+if m2 == "f":
     f = "O"
-elif m2 == "g":
-    g = "X"
-elif m2 == "h":
+if m2 == "g":
+    g = "O"
+if m2 == "h":
     h = "O"
-elif m2 == "i":
-    i = "X"
+if m2 == "i":
+    i = "O"
 
 print("move 3")
 m3 = input()
 if m3 == "a":
     a = "X"
-elif m3 == "b":
-    b = "O"
-elif m3 == "c":
+if m3 == "b":
+    b = "X"
+if m3 == "c":
     c = "X"
-elif m3 == "d":
-    d = "O"
-elif m3 == "e":
+if m3 == "d":
+    d = "X"
+if m3 == "e":
     e = "X"
-elif m3 == "f":
-    f = "O"
-elif m3 == "g":
+if m3 == "f":
+    f = "X"
+if m3 == "g":
     g = "X"
-elif m3 == "h":
-    h = "O"
-elif m3 == "i":
+if m3 == "h":
+    h = "X"
+if m3 == "i":
     i = "X"
 
 print("move 4")
 m4 = input()
 if m4 == "a":
-    a = "X"
-elif m4 == "b":
+    a = "O"
+if m4 == "b":
     b = "O"
-elif m4 == "c":
-    c = "X"
-elif m4 == "d":
+if m4 == "c":
+    c = "O"
+if m4 == "d":
     d = "O"
-elif m4 == "e":
-    e = "X"
-elif m4 == "f":
+if m4 == "e":
+    e = "O"
+if m4 == "f":
     f = "O"
-elif m4 == "g":
-    g = "X"
-elif m4 == "h":
+if m4 == "g":
+    g = "O"
+if m4 == "h":
     h = "O"
-elif m4 == "i":
-    i = "X"
+if m4 == "i":
+    i = "O"
 
 print("move 5")
 m5 = input()
 if m5 == "a":
     a = "X"
-elif m5 == "b":
-    b = "O"
-elif m5 == "c":
+if m5 == "b":
+    b = "X"
+if m5 == "c":
     c = "X"
-elif m5 == "d":
-    d = "O"
-elif m5 == "e":
+if m5 == "d":
+    d = "X"
+if m5 == "e":
     e = "X"
-elif m5 == "f":
-    f = "O"
-elif m5 == "g":
+if m5 == "f":
+    f = "X"
+if m5 == "g":
     g = "X"
-elif m5 == "h":
-    h = "O"
-elif m5 == "i":
+if m5 == "h":
+    h = "X"
+if m5 == "i":
     i = "X"
 
 print("move 6")
 m6 = input()
 if m6 == "a":
-    a = "X"
-elif m6 == "b":
+    a = "O"
+if m6 == "b":
     b = "O"
-elif m6 == "c":
-    c = "X"
-elif m6 == "d":
+if m6 == "c":
+    c = "O"
+if m6 == "d":
     d = "O"
-elif m6 == "e":
-    e = "X"
-elif m6 == "f":
+if m6 == "e":
+    e = "O"
+if m6 == "f":
     f = "O"
-elif m6 == "g":
-    g = "X"
-elif m6 == "h":
+if m6 == "g":
+    g = "O"
+if m6 == "h":
     h = "O"
-elif m6 == "i":
-    i = "X"
+if m6 == "i":
+    i = "O"
 
 print("move 7")
 m7 = input()
 if m7 == "a":
     a = "X"
-elif m7 == "b":
-    b = "O"
-elif m7 == "c":
+if m7 == "b":
+    b = "X"
+if m7 == "c":
     c = "X"
-elif m7 == "d":
-    d = "O"
-elif m7 == "e":
+if m7 == "d":
+    d = "X"
+if m7 == "e":
     e = "X"
-elif m7 == "f":
-    f = "O"
-elif m7 == "g":
+if m7 == "f":
+    f = "X"
+if m7 == "g":
     g = "X"
-elif m7 == "h":
-    h = "O"
-elif m7 == "i":
+if m7 == "h":
+    h = "X"
+if m7 == "i":
     i = "X"
 
 print("move 8")
 m8 = input()
 if m8 == "a":
-    a = "X"
-elif m8 == "b":
+    a = "O"
+if m8 == "b":
     b = "O"
-elif m8 == "c":
-    c = "X"
-elif m8 == "d":
+if m8 == "c":
+    c = "O"
+if m8 == "d":
     d = "O"
-elif m8 == "e":
-    e = "X"
-elif m8 == "f":
+if m8 == "e":
+    e = "O"
+if m8 == "f":
     f = "O"
-elif m8 == "g":
-    g = "X"
-elif m8 == "h":
+if m8 == "g":
+    g = "O"
+if m8 == "h":
     h = "O"
-elif m8 == "i":
-    i = "X"
+if m8 == "i":
+    i = "O"
 
 print("move 9")
 m9 = input()
-
 if m9 == "a":
     a = "X"
-elif m9 == "b":
-    b = "O"
-elif m9 == "c":
+if m9 == "b":
+    b = "X"
+if m9 == "c":
     c = "X"
-elif m9 == "d":
-    d = "O"
-elif m9 == "e":
+if m9 == "d":
+    d = "X"
+if m9 == "e":
     e = "X"
-elif m9 == "f":
-    f = "O"
-elif m9 == "g":
+if m9 == "f":
+    f = "X"
+if m9 == "g":
     g = "X"
-elif m9 == "h":
-    h = "O"
-elif m9 == "i":
+if m9 == "h":
+    h = "X"
+if m9 == "i":
     i = "X"
 
 # Displays final board
@@ -215,33 +216,47 @@ print("|---|---|---|")
 # Determines if X or O wins
 if a == "X" and b == "X" and c == "X":
     print("X wins")
-elif a == "O" and b == "O" and c == "O":
+if a == "O" and b == "O" and c == "O":
     print("O wins")
-elif a == "X" and d == "X" and g == "X":
+if a == "X" and d == "X" and g == "X":
     print("X wins")
-elif a == "O" and d == "O" and g == "O":
+if a == "O" and d == "O" and g == "O":
     print("O wins")
-elif c == "X" and f == "X" and i == "X":
+if c == "X" and f == "X" and i == "X":
     print("X wins")
-elif c == "O" and f == "O" and i == "O":
+if c == "O" and f == "O" and i == "O":
     print("O wins")
-elif g == "X" and h == "X" and i == "X":
+if g == "X" and h == "X" and i == "X":
     print("X wins")
-elif g == "O" and h == "O" and i == "O":
+if g == "O" and h == "O" and i == "O":
     print("O wins")
-elif a == "X" and e == "X" and i == "X":
+if a == "X" and e == "X" and i == "X":
     print("X wins")
-elif a == "O" and e == "O" and i == "O":
+if a == "O" and e == "O" and i == "O":
     print("O wins")
-elif g == "X" and e == "X" and c == "X":
+if g == "X" and e == "X" and c == "X":
     print("X wins")
-elif g == "O" and e == "O" and c == "O":
+if g == "O" and e == "O" and c == "O":
     print("O wins")
-elif d == "X" and e == "X" and f == "X":
+if d == "X" and e == "X" and f == "X":
     print("X wins")
-elif d == "O" and e == "O" and f == "O":
+if d == "O" and e == "O" and f == "O":
     print("O wins")
-elif b == "X" and e == "X" and h == "X":
+if b == "X" and e == "X" and h == "X":
     print("X wins")
-elif b == "O" and e == "O" and h == "O":
+if b == "O" and e == "O" and h == "O":
     print("O wins")
+
+def myClick1():
+    print("|---|---|---|")
+    print("| a | b | c |")
+    print("|---|---|---|")
+    print("| d | e | f |")
+    print("|---|---|---|")
+    print("| g | h | i |")
+    print("|---|---|---|")
+    root.destroy()
+
+myButton = Button(root, text="Click Me!", command=myClick, fg="blue", bg="red")
+myButton.pack()
+root.mainloop()
