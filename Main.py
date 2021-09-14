@@ -297,7 +297,7 @@ def myClick2():
     if m1 == "p":
         p = "X"
     if m1 == "q":
-        q == X
+        q == "X"
     if m1 == "r":
         r = "X"
     if m1 == "s":
