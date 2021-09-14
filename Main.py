@@ -253,13 +253,3 @@ if b == "X" and e == "X" and h == "X":
     print("X wins")
 if b == "O" and e == "O" and h == "O":
     print("O wins")
-
-def myClick1():
-    print("|---|---|---|")
-    print("| a | b | c |")
-    print("|---|---|---|")
-    print("| d | e | f |")
-    print("|---|---|---|")
-    print("| g | h | i |")
-    print("|---|---|---|")
-    root.destroy()
