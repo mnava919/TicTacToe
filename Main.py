@@ -6,13 +6,20 @@ from tkinter import *
 root = Tk()
 
 # Display board
-print("|---|---|---|")
-print("| a | b | c |")
-print("|---|---|---|")
-print("| d | e | f |")
-print("|---|---|---|")
-print("| g | h | i |")
-print("|---|---|---|")
+
+def myClick1():
+    print("|---|---|---|")
+    print("| a | b | c |")
+    print("|---|---|---|")
+    print("| d | e | f |")
+    print("|---|---|---|")
+    print("| g | h | i |")
+    print("|---|---|---|")
+    root.destroy()
+
+myButton1 = Button(root, text="Click Me!", command=myClick1, fg="blue", bg="red")
+myButton1.pack()
+root.mainloop()
 
 # Determines players moves
 print("move 1")
@@ -256,7 +263,3 @@ def myClick1():
     print("| g | h | i |")
     print("|---|---|---|")
     root.destroy()
-
-myButton = Button(root, text="Click Me!", command=myClick, fg="blue", bg="red")
-myButton.pack()
-root.mainloop()
