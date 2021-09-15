@@ -741,6 +741,854 @@ def myClick2():
     if m9 == "y":
         y = "X"
 
+    print("move 10")
+    m10 = input()
+    if m10 == "a":
+        a = "X"
+    if m10 == "b":
+        b = "X"
+    if m10 == "c":
+        c = "X"
+    if m10 == "d":
+        d = "X"
+    if m10 == "e":
+        e = "X"
+    if m10 == "f":
+        f = "X"
+    if m10 == "g":
+        g = "X"
+    if m10 == "h":
+        h = "X"
+    if m10 == "i":
+        i = "X"
+    if m10 == "j":
+        j = "X"
+    if m10 == "k":
+        k = "X"
+    if m10 == "l":
+        l = "X"
+    if m10 == "m":
+        m = "X"
+    if m10 == "n":
+        n = "X"
+    if m10 == "o":
+        o = "X"
+    if m10 == "p":
+        p = "X"
+    if m10 == "q":
+        q == "X"
+    if m10 == "r":
+        r = "X"
+    if m10 == "s":
+        s = "X"
+    if m10 == "t":
+        t = "X"
+    if m10 == "u":
+        u = "X"
+    if m10 == "v":
+        v = "X"
+    if m10 == "w":
+        w = "X"
+    if m10 == "x":
+        x = "X"
+    if m10 == "y":
+        y = "X"
+
+    print("move 11")
+    m11 = input()
+    if m11 == "a":
+        a = "X"
+    if m11 == "b":
+        b = "X"
+    if m11 == "c":
+        c = "X"
+    if m11 == "d":
+        d = "X"
+    if m11 == "e":
+        e = "X"
+    if m11 == "f":
+        f = "X"
+    if m11 == "g":
+        g = "X"
+    if m11 == "h":
+        h = "X"
+    if m11 == "i":
+        i = "X"
+    if m11 == "j":
+        j = "X"
+    if m11 == "k":
+        k = "X"
+    if m11 == "l":
+        l = "X"
+    if m11 == "m":
+        m = "X"
+    if m11 == "n":
+        n = "X"
+    if m11 == "o":
+        o = "X"
+    if m11 == "p":
+        p = "X"
+    if m11 == "q":
+        q == "X"
+    if m11 == "r":
+        r = "X"
+    if m11 == "s":
+        s = "X"
+    if m11 == "t":
+        t = "X"
+    if m11 == "u":
+        u = "X"
+    if m11 == "v":
+        v = "X"
+    if m11 == "w":
+        w = "X"
+    if m11 == "x":
+        x = "X"
+    if m11 == "y":
+        y = "X"
+
+    print("move 12")
+    m12 = input()
+    if m12 == "a":
+        a = "X"
+    if m12 == "b":
+        b = "X"
+    if m12 == "c":
+        c = "X"
+    if m12 == "d":
+        d = "X"
+    if m12 == "e":
+        e = "X"
+    if m12 == "f":
+        f = "X"
+    if m12 == "g":
+        g = "X"
+    if m12 == "h":
+        h = "X"
+    if m12 == "i":
+        i = "X"
+    if m12 == "j":
+        j = "X"
+    if m12 == "k":
+        k = "X"
+    if m12 == "l":
+        l = "X"
+    if m12 == "m":
+        m = "X"
+    if m12 == "n":
+        n = "X"
+    if m12 == "o":
+        o = "X"
+    if m12 == "p":
+        p = "X"
+    if m12 == "q":
+        q == "X"
+    if m12 == "r":
+        r = "X"
+    if m12 == "s":
+        s = "X"
+    if m12 == "t":
+        t = "X"
+    if m12 == "u":
+        u = "X"
+    if m12 == "v":
+        v = "X"
+    if m12 == "w":
+        w = "X"
+    if m12 == "x":
+        x = "X"
+    if m12 == "y":
+        y = "X"
+
+    print("move 13")
+    m13 = input()
+    if m13 == "a":
+        a = "X"
+    if m13 == "b":
+        b = "X"
+    if m13 == "c":
+        c = "X"
+    if m13 == "d":
+        d = "X"
+    if m13 == "e":
+        e = "X"
+    if m13 == "f":
+        f = "X"
+    if m13 == "g":
+        g = "X"
+    if m13 == "h":
+        h = "X"
+    if m13 == "i":
+        i = "X"
+    if m13 == "j":
+        j = "X"
+    if m13 == "k":
+        k = "X"
+    if m13 == "l":
+        l = "X"
+    if m13 == "m":
+        m = "X"
+    if m13 == "n":
+        n = "X"
+    if m13 == "o":
+        o = "X"
+    if m13 == "p":
+        p = "X"
+    if m13 == "q":
+        q == "X"
+    if m13 == "r":
+        r = "X"
+    if m13 == "s":
+        s = "X"
+    if m13 == "t":
+        t = "X"
+    if m13 == "u":
+        u = "X"
+    if m13 == "v":
+        v = "X"
+    if m13 == "w":
+        w = "X"
+    if m13 == "x":
+        x = "X"
+    if m13 == "y":
+        y = "X"
+
+    print("move 14")
+    m14 = input()
+    if m14 == "a":
+        a = "X"
+    if m14 == "b":
+        b = "X"
+    if m14 == "c":
+        c = "X"
+    if m14 == "d":
+        d = "X"
+    if m14 == "e":
+        e = "X"
+    if m14 == "f":
+        f = "X"
+    if m14 == "g":
+        g = "X"
+    if m14 == "h":
+        h = "X"
+    if m14 == "i":
+        i = "X"
+    if m14 == "j":
+        j = "X"
+    if m14 == "k":
+        k = "X"
+    if m14 == "l":
+        l = "X"
+    if m14 == "m":
+        m = "X"
+    if m14 == "n":
+        n = "X"
+    if m14 == "o":
+        o = "X"
+    if m14 == "p":
+        p = "X"
+    if m14 == "q":
+        q == "X"
+    if m14 == "r":
+        r = "X"
+    if m14 == "s":
+        s = "X"
+    if m14 == "t":
+        t = "X"
+    if m14 == "u":
+        u = "X"
+    if m14 == "v":
+        v = "X"
+    if m14 == "w":
+        w = "X"
+    if m14 == "x":
+        x = "X"
+    if m14 == "y":
+        y = "X"
+
+    print("move 15")
+    m15 = input()
+    if m15 == "a":
+        a = "X"
+    if m15 == "b":
+        b = "X"
+    if m15 == "c":
+        c = "X"
+    if m15 == "d":
+        d = "X"
+    if m15 == "e":
+        e = "X"
+    if m15 == "f":
+        f = "X"
+    if m15 == "g":
+        g = "X"
+    if m15 == "h":
+        h = "X"
+    if m15 == "i":
+        i = "X"
+    if m15 == "j":
+        j = "X"
+    if m15 == "k":
+        k = "X"
+    if m15 == "l":
+        l = "X"
+    if m15 == "m":
+        m = "X"
+    if m15 == "n":
+        n = "X"
+    if m15 == "o":
+        o = "X"
+    if m15 == "p":
+        p = "X"
+    if m15 == "q":
+        q == "X"
+    if m15 == "r":
+        r = "X"
+    if m15 == "s":
+        s = "X"
+    if m15 == "t":
+        t = "X"
+    if m15 == "u":
+        u = "X"
+    if m15 == "v":
+        v = "X"
+    if m15 == "w":
+        w = "X"
+    if m15 == "x":
+        x = "X"
+    if m15 == "y":
+        y = "X"
+
+    print("move 16")
+    m16 = input()
+    if m16 == "a":
+        a = "X"
+    if m16 == "b":
+        b = "X"
+    if m16 == "c":
+        c = "X"
+    if m16 == "d":
+        d = "X"
+    if m16 == "e":
+        e = "X"
+    if m16 == "f":
+        f = "X"
+    if m16 == "g":
+        g = "X"
+    if m16 == "h":
+        h = "X"
+    if m16 == "i":
+        i = "X"
+    if m16 == "j":
+        j = "X"
+    if m16 == "k":
+        k = "X"
+    if m16 == "l":
+        l = "X"
+    if m16 == "m":
+        m = "X"
+    if m16 == "n":
+        n = "X"
+    if m16 == "o":
+        o = "X"
+    if m16 == "p":
+        p = "X"
+    if m16 == "q":
+        q == "X"
+    if m16 == "r":
+        r = "X"
+    if m16 == "s":
+        s = "X"
+    if m16 == "t":
+        t = "X"
+    if m16 == "u":
+        u = "X"
+    if m16 == "v":
+        v = "X"
+    if m16 == "w":
+        w = "X"
+    if m16 == "x":
+        x = "X"
+    if m16 == "y":
+        y = "X"
+
+    print("move 17")
+    m17 = input()
+    if m17 == "a":
+        a = "X"
+    if m17 == "b":
+        b = "X"
+    if m17 == "c":
+        c = "X"
+    if m17 == "d":
+        d = "X"
+    if m17 == "e":
+        e = "X"
+    if m17 == "f":
+        f = "X"
+    if m17 == "g":
+        g = "X"
+    if m17 == "h":
+        h = "X"
+    if m17 == "i":
+        i = "X"
+    if m17 == "j":
+        j = "X"
+    if m17 == "k":
+        k = "X"
+    if m17 == "l":
+        l = "X"
+    if m17 == "m":
+        m = "X"
+    if m17 == "n":
+        n = "X"
+    if m17 == "o":
+        o = "X"
+    if m17 == "p":
+        p = "X"
+    if m17 == "q":
+        q == "X"
+    if m17 == "r":
+        r = "X"
+    if m17 == "s":
+        s = "X"
+    if m17 == "t":
+        t = "X"
+    if m17 == "u":
+        u = "X"
+    if m17 == "v":
+        v = "X"
+    if m17 == "w":
+        w = "X"
+    if m17 == "x":
+        x = "X"
+    if m17 == "y":
+        y = "X"
+
+    print("move 18")
+    m18 = input()
+    if m18 == "a":
+        a = "X"
+    if m18 == "b":
+        b = "X"
+    if m18 == "c":
+        c = "X"
+    if m18 == "d":
+        d = "X"
+    if m18 == "e":
+        e = "X"
+    if m18 == "f":
+        f = "X"
+    if m18 == "g":
+        g = "X"
+    if m18 == "h":
+        h = "X"
+    if m18 == "i":
+        i = "X"
+    if m18 == "j":
+        j = "X"
+    if m18 == "k":
+        k = "X"
+    if m18 == "l":
+        l = "X"
+    if m18 == "m":
+        m = "X"
+    if m18 == "n":
+        n = "X"
+    if m18 == "o":
+        o = "X"
+    if m18 == "p":
+        p = "X"
+    if m18 == "q":
+        q == "X"
+    if m18 == "r":
+        r = "X"
+    if m18 == "s":
+        s = "X"
+    if m18 == "t":
+        t = "X"
+    if m18 == "u":
+        u = "X"
+    if m18 == "v":
+        v = "X"
+    if m18 == "w":
+        w = "X"
+    if m18 == "x":
+        x = "X"
+    if m18 == "y":
+        y = "X"
+
+    print("move 19")
+    m19 = input()
+    if m19 == "a":
+        a = "X"
+    if m19 == "b":
+        b = "X"
+    if m19 == "c":
+        c = "X"
+    if m19 == "d":
+        d = "X"
+    if m19 == "e":
+        e = "X"
+    if m19 == "f":
+        f = "X"
+    if m19 == "g":
+        g = "X"
+    if m19 == "h":
+        h = "X"
+    if m19 == "i":
+        i = "X"
+    if m19 == "j":
+        j = "X"
+    if m19 == "k":
+        k = "X"
+    if m19 == "l":
+        l = "X"
+    if m19 == "m":
+        m = "X"
+    if m19 == "n":
+        n = "X"
+    if m19 == "o":
+        o = "X"
+    if m19 == "p":
+        p = "X"
+    if m19 == "q":
+        q == "X"
+    if m19 == "r":
+        r = "X"
+    if m19 == "s":
+        s = "X"
+    if m19 == "t":
+        t = "X"
+    if m19 == "u":
+        u = "X"
+    if m19 == "v":
+        v = "X"
+    if m19 == "w":
+        w = "X"
+    if m19 == "x":
+        x = "X"
+    if m19 == "y":
+        y = "X"
+
+    print("move 20")
+    m20 = input()
+    if m20 == "a":
+        a = "X"
+    if m20 == "b":
+        b = "X"
+    if m20 == "c":
+        c = "X"
+    if m20 == "d":
+        d = "X"
+    if m20 == "e":
+        e = "X"
+    if m20 == "f":
+        f = "X"
+    if m20 == "g":
+        g = "X"
+    if m20 == "h":
+        h = "X"
+    if m20 == "i":
+        i = "X"
+    if m20 == "j":
+        j = "X"
+    if m20 == "k":
+        k = "X"
+    if m20 == "l":
+        l = "X"
+    if m20 == "m":
+        m = "X"
+    if m20 == "n":
+        n = "X"
+    if m20 == "o":
+        o = "X"
+    if m20 == "p":
+        p = "X"
+    if m20 == "q":
+        q == "X"
+    if m20 == "r":
+        r = "X"
+    if m20 == "s":
+        s = "X"
+    if m20 == "t":
+        t = "X"
+    if m20 == "u":
+        u = "X"
+    if m20 == "v":
+        v = "X"
+    if m20 == "w":
+        w = "X"
+    if m20 == "x":
+        x = "X"
+    if m20 == "y":
+        y = "X"
+
+    print("move 21")
+    m21 = input()
+    if m21 == "a":
+        a = "X"
+    if m21 == "b":
+        b = "X"
+    if m21 == "c":
+        c = "X"
+    if m21 == "d":
+        d = "X"
+    if m21 == "e":
+        e = "X"
+    if m21 == "f":
+        f = "X"
+    if m21 == "g":
+        g = "X"
+    if m21 == "h":
+        h = "X"
+    if m21 == "i":
+        i = "X"
+    if m21 == "j":
+        j = "X"
+    if m21 == "k":
+        k = "X"
+    if m21 == "l":
+        l = "X"
+    if m21 == "m":
+        m = "X"
+    if m21 == "n":
+        n = "X"
+    if m21 == "o":
+        o = "X"
+    if m21 == "p":
+        p = "X"
+    if m21 == "q":
+        q == "X"
+    if m21 == "r":
+        r = "X"
+    if m21 == "s":
+        s = "X"
+    if m21 == "t":
+        t = "X"
+    if m21 == "u":
+        u = "X"
+    if m21 == "v":
+        v = "X"
+    if m21 == "w":
+        w = "X"
+    if m21 == "x":
+        x = "X"
+    if m21 == "y":
+        y = "X"
+
+    print("move 22")
+    m22 = input()
+    if m22 == "a":
+        a = "X"
+    if m22 == "b":
+        b = "X"
+    if m22 == "c":
+        c = "X"
+    if m22 == "d":
+        d = "X"
+    if m22 == "e":
+        e = "X"
+    if m22 == "f":
+        f = "X"
+    if m22 == "g":
+        g = "X"
+    if m22 == "h":
+        h = "X"
+    if m22 == "i":
+        i = "X"
+    if m22 == "j":
+        j = "X"
+    if m22 == "k":
+        k = "X"
+    if m22 == "l":
+        l = "X"
+    if m22 == "m":
+        m = "X"
+    if m22 == "n":
+        n = "X"
+    if m22 == "o":
+        o = "X"
+    if m22 == "p":
+        p = "X"
+    if m22 == "q":
+        q == "X"
+    if m22 == "r":
+        r = "X"
+    if m22 == "s":
+        s = "X"
+    if m22 == "t":
+        t = "X"
+    if m22 == "u":
+        u = "X"
+    if m22 == "v":
+        v = "X"
+    if m22 == "w":
+        w = "X"
+    if m22 == "x":
+        x = "X"
+    if m22 == "y":
+        y = "X"
+
+    print("move 23")
+    m23 = input()
+    if m23 == "a":
+        a = "X"
+    if m23 == "b":
+        b = "X"
+    if m23 == "c":
+        c = "X"
+    if m23 == "d":
+        d = "X"
+    if m23 == "e":
+        e = "X"
+    if m23 == "f":
+        f = "X"
+    if m23 == "g":
+        g = "X"
+    if m23 == "h":
+        h = "X"
+    if m23 == "i":
+        i = "X"
+    if m23 == "j":
+        j = "X"
+    if m23 == "k":
+        k = "X"
+    if m23 == "l":
+        l = "X"
+    if m23 == "m":
+        m = "X"
+    if m23 == "n":
+        n = "X"
+    if m23 == "o":
+        o = "X"
+    if m23 == "p":
+        p = "X"
+    if m23 == "q":
+        q == "X"
+    if m23 == "r":
+        r = "X"
+    if m23 == "s":
+        s = "X"
+    if m23 == "t":
+        t = "X"
+    if m23 == "u":
+        u = "X"
+    if m23 == "v":
+        v = "X"
+    if m23 == "w":
+        w = "X"
+    if m23 == "x":
+        x = "X"
+    if m23 == "y":
+        y = "X"
+
+    print("move 24")
+    m24 = input()
+    if m24 == "a":
+        a = "X"
+    if m24 == "b":
+        b = "X"
+    if m24 == "c":
+        c = "X"
+    if m24 == "d":
+        d = "X"
+    if m24 == "e":
+        e = "X"
+    if m24 == "f":
+        f = "X"
+    if m24 == "g":
+        g = "X"
+    if m24 == "h":
+        h = "X"
+    if m24 == "i":
+        i = "X"
+    if m24 == "j":
+        j = "X"
+    if m24 == "k":
+        k = "X"
+    if m24 == "l":
+        l = "X"
+    if m24 == "m":
+        m = "X"
+    if m24 == "n":
+        n = "X"
+    if m24 == "o":
+        o= "X"
+    if m24 == "p":
+        p = "X"
+    if m24 == "q":
+        q == "X"
+    if m24 == "r":
+        r = "X"
+    if m24 == "s":
+        s = "X"
+    if m24 == "t":
+        t = "X"
+    if m24 == "u":
+        u = "X"
+    if m24 == "v":
+        v = "X"
+    if m24 == "w":
+        w = "X"
+    if m24 == "x":
+        x = "X"
+    if m24 == "y":
+        y = "X"
+
+    print("move 25")
+    m25 = input()
+    if m25 == "a":
+        a = "X"
+    if m25 == "b":
+        b = "X"
+    if m25 == "c":
+        c = "X"
+    if m25 == "d":
+        d = "X"
+    if m25 == "e":
+        e = "X"
+    if m25 == "f":
+        f = "X"
+    if m25 == "g":
+        g = "X"
+    if m25 == "h":
+        h = "X"
+    if m25 == "i":
+        i = "X"
+    if m25 == "j":
+        j = "X"
+    if m25 == "k":
+        k = "X"
+    if m25 == "l":
+        l = "X"
+    if m25 == "m":
+        m = "X"
+    if m25 == "n":
+        n = "X"
+    if m25 == "o":
+        o = "X"
+    if m25 == "p":
+        p = "X"
+    if m25 == "q":
+        q == "X"
+    if m25 == "r":
+        r = "X"
+    if m25 == "s":
+        s = "X"
+    if m25 == "t":
+        t = "X"
+    if m25 == "u":
+        u = "X"
+    if m25 == "v":
+        v = "X"
+    if m25 == "w":
+        w = "X"
+    if m25 == "x":
+        x = "X"
+    if m25 == "y":
+        y = "X"
+
     # Displays final board
     print("|---|---|---|")
     print("|", a, "|", b, "|", c, "|")
