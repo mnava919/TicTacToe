@@ -290,6 +290,8 @@ def myClick2():
         k = "X"
     if m1 == "l":
         l = "X"
+    if m1 == "m":
+        m = "X"
     if m1 == "n":
         n = "X"
     if m1 == "o":
@@ -341,6 +343,8 @@ def myClick2():
         k = "X"
     if m2 == "l":
         l = "X"
+    if m2 == "m"
+        m = "X"
     if m2 == "n":
         n = "X"
     if m2 == "o":
@@ -392,6 +396,8 @@ def myClick2():
         k = "X"
     if m3 == "l":
         l = "X"
+    if m3 == "m":
+        m = "X"
     if m3 == "n":
         n = "X"
     if m3 == "o":
@@ -437,6 +443,38 @@ def myClick2():
         h = "O"
     if m4 == "i":
         i = "O"
+    if m4 == "j":
+        j = "X"
+    if m4 == "k":
+        k = "X"
+    if m4 == "l":
+        l = "X"
+    if m4 == "m":
+        m = "X"
+    if m4 == "n":
+        n = "X"
+    if m4 == "o":
+        o = "X"
+    if m4 == "p":
+        p = "X"
+    if m4 == "q":
+        q == "X"
+    if m4 == "r":
+        r = "X"
+    if m4 == "s":
+        s = "X"
+    if m4 == "t":
+        t = "X"
+    if m4 == "u":
+        u = "X"
+    if m4 == "v":
+        v = "X"
+    if m4 == "w":
+        w = "X"
+    if m4 == "x":
+        x = "X"
+    if m4 == "y":
+        y = "X"
 
     print("move 5")
     m5 = input()
@@ -458,6 +496,38 @@ def myClick2():
         h = "X"
     if m5 == "i":
         i = "X"
+    if m5 == "j":
+        j = "X"
+    if m5 == "k":
+        k = "X"
+    if m5 == "l":
+        l = "X"
+    if m5 == "m":
+        m = "X"
+    if m5 == "n":
+        n = "X"
+    if m5 == "o":
+        o = "X"
+    if m5 == "p":
+        p = "X"
+    if m5 == "q":
+        q == "X"
+    if m5 == "r":
+        r = "X"
+    if m5 == "s":
+        s = "X"
+    if m5 == "t":
+        t = "X"
+    if m5 == "u":
+        u = "X"
+    if m5 == "v":
+        v = "X"
+    if m5 == "w":
+        w = "X"
+    if m5 == "x":
+        x = "X"
+    if m5 == "y":
+        y = "X"
 
     print("move 6")
     m6 = input()
@@ -479,6 +549,38 @@ def myClick2():
         h = "O"
     if m6 == "i":
         i = "O"
+    if m6 == "j":
+        j = "X"
+    if m6 == "k":
+        k = "X"
+    if m6 == "l":
+        l = "X"
+    if m6 == "m":
+        m = "X"
+    if m6 == "n":
+        n = "X"
+    if m6 == "o":
+        o = "X"
+    if m6 == "p":
+        p = "X"
+    if m6 == "q":
+        q == "X"
+    if m6 == "r":
+        r = "X"
+    if m6 == "s":
+        s = "X"
+    if m6 == "t":
+        t = "X"
+    if m6 == "u":
+        u = "X"
+    if m6 == "v":
+        v = "X"
+    if m6 == "w":
+        w = "X"
+    if m6 == "x":
+        x = "X"
+    if m6 == "y":
+        y = "X"
 
     print("move 7")
     m7 = input()
@@ -500,6 +602,38 @@ def myClick2():
         h = "X"
     if m7 == "i":
         i = "X"
+    if m7 == "j":
+        j = "X"
+    if m7 == "k":
+        k = "X"
+    if m7 == "l":
+        l = "X"
+    if m7 == "m":
+        m = "X"
+    if m7 == "n":
+        n = "X"
+    if m7 == "o":
+        o = "X"
+    if m7 == "p":
+        p = "X"
+    if m7 == "q":
+        q == "X"
+    if m7 == "r":
+        r = "X"
+    if m7 == "s":
+        s = "X"
+    if m7 == "t":
+        t = "X"
+    if m7 == "u":
+        u = "X"
+    if m7 == "v":
+        v = "X"
+    if m7 == "w":
+        w = "X"
+    if m7 == "x":
+        x = "X"
+    if m7 == "y":
+        y = "X"
 
     print("move 8")
     m8 = input()
@@ -521,6 +655,38 @@ def myClick2():
         h = "O"
     if m8 == "i":
         i = "O"
+    if m8 == "j":
+        j = "X"
+    if m8 == "k":
+        k = "X"
+    if m8 == "l":
+        l = "X"
+    if m8 == "m":
+        m = "X"
+    if m8 == "n":
+        n = "X"
+    if m8 == "o":
+        o = "X"
+    if m8 == "p":
+        p = "X"
+    if m8 == "q":
+        q == "X"
+    if m8 == "r":
+        r = "X"
+    if m8 == "s":
+        s = "X"
+    if m8 == "t":
+        t = "X"
+    if m8 == "u":
+        u = "X"
+    if m8 == "v":
+        v = "X"
+    if m8 == "w":
+        w = "X"
+    if m8 == "x":
+        x = "X"
+    if m8 == "y":
+        y = "X"
 
     print("move 9")
     m9 = input()
@@ -542,6 +708,38 @@ def myClick2():
         h = "X"
     if m9 == "i":
         i = "X"
+    if m9 == "j":
+        j = "X"
+    if m9 == "k":
+        k = "X"
+    if m9 == "l":
+        l = "X"
+    if m9 == "m":
+        m = "X"
+    if m9 == "n":
+        n = "X"
+    if m9 == "o":
+        o = "X"
+    if m9 == "p":
+        p = "X"
+    if m9 == "q":
+        q == "X"
+    if m9 == "r":
+        r = "X"
+    if m9 == "s":
+        s = "X"
+    if m9 == "t":
+        t = "X"
+    if m9 == "u":
+        u = "X"
+    if m9 == "v":
+        v = "X"
+    if m9 == "w":
+        w = "X"
+    if m9 == "x":
+        x = "X"
+    if m9 == "y":
+        y = "X"
 
     # Displays final board
     print("|---|---|---|")
