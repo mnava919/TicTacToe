@@ -1769,6 +1769,8 @@ def myClick3():
         w1 = "X"
     if m1 == "x1":
         x1 = "X"
+    if m1 == "y1":
+        y1 = "X"
 
     print("move 2")
     m2 = input()
@@ -1870,6 +1872,8 @@ def myClick3():
         w1 = "O"
     if m2 == "x1":
         x1 = "O"
+    if m2 == "y1":
+        y1 = "O"
 
     print("move 3")
     m3 = input()
@@ -1971,6 +1975,8 @@ def myClick3():
         w1 = "X"
     if m3 == "x1":
         x1 = "X"
+    if m3 == "y1":
+        y1 = "X"
 
     print("move 4")
     m4 = input()
@@ -2072,6 +2078,8 @@ def myClick3():
         w1 = "O"
     if m4 == "x1":
         x1 = "O"
+    if m4 == "y1":
+        y1 = "O"
 
     print("move 5")
     m5 = input()
@@ -2173,6 +2181,8 @@ def myClick3():
         w1 = "X"
     if m5 == "x1":
         x1 = "X"
+    if m5 == "y1":
+        y1 = "X"
 
     print("move 6")
     m6 = input()
@@ -2274,6 +2284,8 @@ def myClick3():
         w1 = "O"
     if m6 == "x1":
         x1 = "O"
+    if m6 == "y1":
+        y1 = "O"
 
     print("move 7")
     m7 = input()
@@ -2375,6 +2387,8 @@ def myClick3():
         w1 = "X"
     if m7 == "x1":
         x1 = "X"
+    if m7 == "y1":
+        y1 = "X"
 
     print("move 8")
     m8 = input()
@@ -2476,6 +2490,8 @@ def myClick3():
         w1 = "O"
     if m8 == "x1":
         x1 = "O"
+    if m8 == "y1":
+        y1 = "O"
 
     print("move 9")
     m9 = input()
@@ -2577,6 +2593,8 @@ def myClick3():
         w1 = "X"
     if m9 == "x1":
         x1 = "X"
+    if m9 == "y1":
+        y1 = "X"
 
     print("move 10")
     m10 = input()
@@ -2678,6 +2696,8 @@ def myClick3():
         w1 = "O"
     if m10 == "x1":
         x1 = "O"
+    if m10 == "y1":
+        y1 = "O"
 
     print("move 11")
     m11 = input()
@@ -2779,6 +2799,8 @@ def myClick3():
         w1 = "X"
     if m11 == "x1":
         x1 = "X"
+    if m11 == "y1":
+        y1 = "X"
 
     print("move 12")
     m12 = input()
@@ -2880,6 +2902,8 @@ def myClick3():
         w1 = "O"
     if m12 == "x1":
         x1 = "O"
+    if m12 == "y1":
+        y1 = "O"
 
     print("move 13")
     m13 = input()
@@ -2981,6 +3005,8 @@ def myClick3():
         w1 = "X"
     if m13 == "x1":
         x1 = "X"
+    if m13 == "y1":
+        y1 = "X"
 
     print("move 14")
     m14 = input()
@@ -3082,6 +3108,8 @@ def myClick3():
         w1 = "O"
     if m14 == "x1":
         x1 = "O"
+    if m14 == "y1":
+        y1 = "O"
 
     print("move 15")
     m15 = input()
@@ -3183,6 +3211,8 @@ def myClick3():
         w1 = "X"
     if m15 == "x1":
         x1 = "X"
+    if m15 == "y1":
+        y1 = "X"
 
     print("move 16")
     m16 = input()
@@ -3284,6 +3314,8 @@ def myClick3():
         w1 = "O"
     if m16 == "x1":
         x1 = "O"
+    if m16 == "y1":
+        y1 = "O"
 
     print("move 17")
     m17 = input()
@@ -3385,6 +3417,8 @@ def myClick3():
         w1 = "X"
     if m17 == "x1":
         x1 = "X"
+    if m17 == "y1":
+        y1 = "X"
 
     print("move 18")
     m18 = input()
@@ -3486,6 +3520,8 @@ def myClick3():
         w1 = "O"
     if m18 == "x1":
         x1 = "O"
+    if m18 == "y1":
+        y1 = "O"
 
     print("move 19")
     m19 = input()
@@ -3587,6 +3623,8 @@ def myClick3():
         w1 = "X"
     if m19 == "x1":
         x1 = "X"
+    if m19 == "y1":
+        y1 = "X"
 
     print("move 20")
     m20 = input()
@@ -3688,6 +3726,8 @@ def myClick3():
         w1 = "O"
     if m20 == "x1":
         x1 = "O"
+    if m20 == "y1":
+        y1 = "O"
 
     print("move 21")
     m21 = input()
@@ -3789,6 +3829,8 @@ def myClick3():
         w1 = "X"
     if m21 == "x1":
         x1 = "X"
+    if m21 == "y1":
+        y1 = "X"
 
     print("move 22")
     m22 = input()
@@ -3890,6 +3932,8 @@ def myClick3():
         w1 = "O"
     if m22 == "x1":
         x1 = "O"
+    if m22 == "y1":
+        y1 = "O"
 
     print("move 23")
     m23 = input()
@@ -3991,6 +4035,8 @@ def myClick3():
         w1 = "X"
     if m23 == "x1":
         x1 = "X"
+    if m23 == "y1":
+        y1 = "X"
 
     print("move 24")
     m24 = input()
@@ -4092,6 +4138,8 @@ def myClick3():
         w1 = "O"
     if m24 == "x1":
         x1 = "O"
+    if m24 == "y1":
+        y1 = "O"
 
     print("move 25")
     m25 = input()
@@ -4193,6 +4241,8 @@ def myClick3():
         w1 = "X"
     if m25 == "x1":
         x1 = "X"
+    if m25 == "y1":
+        y1 = "X"
 
     print("move 26")
     m26 = input()
@@ -4294,6 +4344,8 @@ def myClick3():
         w1 = "O"
     if m26 == "x1":
         x1 = "O"
+    if m26 == "y1":
+        y1 = "O"
 
     print("move 27")
     m27 = input()
@@ -4395,6 +4447,8 @@ def myClick3():
         w1 = "X"
     if m27 == "x1":
         x1 = "X"
+    if m27 == "y1":
+        y1 = "X"
 
     print("move 28")
     m28 = input()
@@ -4496,6 +4550,8 @@ def myClick3():
         w1 = "O"
     if m28 == "x1":
         x1 = "O"
+    if m28 == "y1":
+        y1 = "O"
 
     print("move 29")
     m29 = input()
@@ -4597,6 +4653,8 @@ def myClick3():
         w1 = "X"
     if m29 == "x1":
         x1 = "X"
+    if m29 == "y1":
+        y1 = "X"
 
     print("move 30")
     m30 = input()
@@ -4698,6 +4756,8 @@ def myClick3():
         w1 = "O"
     if m30 == "x1":
         x1 = "O"
+    if m30 == "y1":
+        y1 = "O"
 
     print("move 31")
     m31 = input()
@@ -4799,6 +4859,8 @@ def myClick3():
         w1 = "X"
     if m31 == "x1":
         x1 = "X"
+    if m31 == "y1":
+        y1 = "X"
 
     print("move 32")
     m32 = input()
@@ -4900,6 +4962,8 @@ def myClick3():
         w1 = "O"
     if m32 == "x1":
         x1 = "O"
+    if m32 == "y1":
+        y1 = "O"
 
     print("move 33")
     m33 = input()
@@ -5001,6 +5065,8 @@ def myClick3():
         w1 = "X"
     if m33 == "x1":
         x1 = "X"
+    if m33 == "y1":
+        y1 = "X"
 
     print("move 34")
     m34 = input()
@@ -5102,6 +5168,8 @@ def myClick3():
         w1 = "O"
     if m34 == "x1":
         x1 = "O"
+    if m34 == "y1":
+        y1 = "O"
 
     print("move 35")
     m35 = input()
@@ -5203,6 +5271,8 @@ def myClick3():
         w1 = "X"
     if m35 == "x1":
         x1 = "X"
+    if m35 == "y1":
+        y1 = "X"
 
     print("move 36")
     m36 = input()
@@ -5304,6 +5374,8 @@ def myClick3():
         w1 = "O"
     if m36 == "x1":
         x1 = "O"
+    if m36 == "y1":
+        y1 = "O"
 
     print("move 37")
     m37 = input()
@@ -5405,6 +5477,8 @@ def myClick3():
         w1 = "X"
     if m37 == "x1":
         x1 = "X"
+    if m37 == "y1":
+        y1 = "X"
 
     print("move 38")
     m38 = input()
@@ -5506,6 +5580,8 @@ def myClick3():
         w1 = "O"
     if m38 == "x1":
         x1 = "O"
+    if m38 == "y1":
+        y1 = "O"
 
     print("move 39")
     m39 = input()
@@ -5607,6 +5683,8 @@ def myClick3():
         w1 = "X"
     if m39 == "x1":
         x1 = "X"
+    if m39 == "y1":
+        y1 = "X"
 
     print("move 40")
     m40 = input()
@@ -5708,6 +5786,8 @@ def myClick3():
         w1 = "O"
     if m40 == "x1":
         x1 = "O"
+    if m40 == "y1":
+        y1 = "O"
 
     print("move 41")
     m41 = input()
@@ -5809,6 +5889,8 @@ def myClick3():
         w1 = "X"
     if m41 == "x1":
         x1 = "X"
+    if m41 == "y1":
+        y1 = "X"
 
     print("move 42")
     m42 = input()
@@ -5910,6 +5992,8 @@ def myClick3():
         w1 = "O"
     if m42 == "x1":
         x1 = "O"
+    if m42 == "y1":
+        y1 = "O"
 
     print("move 43")
     m43 = input()
@@ -6011,6 +6095,8 @@ def myClick3():
         w1 = "X"
     if m43 == "x1":
         x1 = "X"
+    if m43 == "y1":
+        y1 = "X"
 
     print("move 44")
     m44 = input()
@@ -6112,6 +6198,8 @@ def myClick3():
         w1 = "O"
     if m44 == "x1":
         x1 = "O"
+    if m44 == "y1":
+        y1 = "O"
 
     print("move 45")
     m45 = input()
@@ -6213,6 +6301,8 @@ def myClick3():
         w1 = "X"
     if m45 == "x1":
         x1 = "X"
+    if m45 == "y1":
+        y1 = "X"
 
     print("move 46")
     m46 = input()
@@ -6314,6 +6404,8 @@ def myClick3():
         w1 = "O"
     if m46 == "x1":
         x1 = "O"
+    if m46 == "y1":
+        y1 = "O"
 
     print("move 47")
     m47 = input()
@@ -6415,6 +6507,8 @@ def myClick3():
         w1 = "X"
     if m47 == "x1":
         x1 = "X"
+    if m47 == "y1":
+        y1 = "X"
 
     print("move 48")
     m48 = input()
@@ -6516,6 +6610,8 @@ def myClick3():
         w1 = "O"
     if m48 == "x1":
         x1 = "O"
+    if m48 == "y1":
+        y1 = "O"
 
     print("move 49")
     m49 = input()
@@ -6617,6 +6713,8 @@ def myClick3():
         w1 = "X"
     if m49 == "x1":
         x1 = "X"
+    if m49 == "y1":
+        y1 = "X"
 
     # Displays final board
     print("|---|---|---|---|---|---|---|")
@@ -6630,9 +6728,9 @@ def myClick3():
     print("|---|---|---|---|---|---|---|")
     print("|", c1,"|", d1,"|", e1,"|", f1,"|", g1,"|", h1,"|", i1,"|")
     print("|---|---|---|---|---|---|---|")
-    print("|", j1,"|", k1,"|", l1,"|", m1,"|", n1,"|", o1,"|", p1,"|")
+    print("|", j1,"|", k1,"|", l1,"|", n1,"|", o1,"|", p1,"|", q1,"|")
     print("|---|---|---|---|---|---|---|")
-    print("|", q1,"|", s1,"|", t1,"|", u1,"|", v1,"|", w1,"|", x1,"|")
+    print("|", s1,"|", t1,"|", u1,"|", v1,"|", w1,"|", x1,"|", y1,"|")
     print("|---|---|---|---|---|---|---|")
 
     # Determines if X or O wins
