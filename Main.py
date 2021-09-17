@@ -6626,12 +6626,80 @@ def myClick3():
     print("|---|---|---|---|---|---|---|")
     print("|", o, "|", p, "|", q, "|", r, "|", s, "|", t, "|", u, "|")
     print("|---|---|---|---|---|---|---|")
-    print("|", v, "|", w, "|", x, "|", y, "|", z, "|", a1, "|", b1, "|")
+    print("|", v, "|", w, "|", x, "|", y, "|", z, "|", a1,"|", b1,"|")
     print("|---|---|---|---|---|---|---|")
-    print("|", c1, "|", d1, "|", e1, "|", f1, "|", g1, "|", h1, "|", i1, "|")
+    print("|", c1,"|", d1,"|", e1,"|", f1,"|", g1,"|", h1,"|", i1,"|")
     print("|---|---|---|---|---|---|---|")
-    print("|", j1, "|", k1, "|", l1, "|", m1, "|", n1, "|", o1, "|", p1, "|")
+    print("|", j1,"|", k1,"|", l1,"|", m1,"|", n1,"|", o1,"|", p1,"|")
+    print("|---|---|---|---|---|---|---|")
+    print("|", q1,"|", s1,"|", t1,"|", u1,"|", v1,"|", w1,"|", x1,"|")
+    print("|---|---|---|---|---|---|---|")
 
+    # Determines if X or O wins
+    if a == "X" and b == "X" and c == "X" and d == "X" and e == "X" and f == "X" and g == "X":
+        print("X wins")
+    if a == "O" and b == "O" and c == "O" and d == "O" and e == "O" and f == "O" and g == "O":
+        print("O wins")
+    if h == "X" and i == "X" and j == "X" and k == "X" and l == "X" and m == "X" and n == "X":
+        print("X wins")
+    if h == "O" and i == "O" and j == "O" and k == "O" and l == "O" and m == "O" and n == "O":
+        print("O wins")
+    if o == "X" and p == "X" and q == "X" and r == "X" and s == "X" and t == "X" and u == "X":
+        print("X wins")
+    if o == "O" and p == "O" and q == "O" and r == "O" and s == "O" and t == "O" and u == "O":
+        print("O wins")
+    if v == "X" and w == "X" and x == "X" and y == "X" and z == "X" and a1 == "X" and b1 == "X":
+        print("X wins")
+    if v == "O" and w == "O" and x == "O" and y == "O" and z == "O" and a1 == "O" and b1 == "O":
+        print("O wins")
+    if c1 == "X" and d1 == "X" and e1 == "X" and f1 == "X" and g1 == "X" and h1 == "X" and i1 == "X":
+        print("X wins")
+    if c1 == "O" and d1 == "O" and e1 == "O" and f1 == "O" and g1 == "O" and h1 == "O" and i1 == "O":
+        print("O wins")
+    if j1 == "X" and k1 == "X" and l1 == "X" and n1 == "X" and o1 == "X" and p1 == "X" and q1 == "X":
+        print("X wins")
+    if j1 == "O" and k1 == "O" and l1 == "O" and n1 == "O" and o1 == "O" and p1 == "O" and q1 == "O":
+        print("O wins")
+    if r1 == "X" and s1 == "X" and t1 == "X" and u1 == "X" and v1 == "X" and w1 == "X" and x1 == "X":
+        print("X wins")
+    if r1 == "O" and s1 == "O" and t1 == "O" and u1 == "O" and v1 == "O" and w1 == "O" and x1 == "O":
+        print("O wins")
+    if a == "X" and h == "X" and o == "X" and v == "X" and c1 == "X" and j1 == "X" and r1 == "X":
+        print("X wins")
+    if a == "O" and h == "O" and o == "O" and v == "O" and c1 == "O" and j1 == "O" and r1 == "O":
+        print("O wins")
+    if b == "X" and i == "X" and p == "X" and w == "X" and d1 == "X" and k1 == "X" and s1 == "X":
+        print("X wins")
+    if b == "O" and i == "O" and p == "O" and w == "O" and d1 == "O" and k1 == "O" and s1 == "O":
+        print("O wins")
+    if c == "X" and j == "X" and q == "X" and x == "X" and e1 == "X" and l1 == "X" and t1 == "X":
+        print("X wins")
+    if c == "O" and j == "O" and q == "O" and x == "O" and e1 == "O" and l1 == "O" and t1 == "O":
+        print("O wins")
+    if d == "X" and k == "X" and r == "X" and y == "X" and f1 == "X" and n1 == "X" and u1 == "X":
+        print("X wins")
+    if d == "O" and k == "O" and r == "O" and y == "O" and f1 == "O" and n1 == "O" and u1 == "O":
+        print("O wins")
+    if e == "X" and l == "X" and s == "X" and z == "X" and g1 == "X" and o1 == "X" and v1 == "X":
+        print("X wins")
+    if e == "O" and l == "O" and s == "O" and z == "O" and g1 == "O" and o1 == "O" and v1 == "O":
+        print("O wins")
+    if f == "X" and m == "X" and t == "X" and a1 == "X" and h1 == "X" and p1 == "X" and w1 == "X":
+        print("X wins")
+    if f == "O" and m == "O" and t == "O" and a1 == "O" and h1 == "O" and p1 == "O" and w1 == "O":
+        print("O wins")
+    if g == "X" and n == "X" and u == "X" and b1 == "X" and i1 == "X" and q1 == "X" and x1 == "X":
+        print("X wins")
+    if g == "O" and n == "O" and u == "O" and b1 == "O" and i1 == "O" and q1 == "O" and x1 == "O":
+        print("O wins")
+    if a == "X" and i == "X" and q == "X" and y == "X" and g1 == "X" and p1 == "X" and x1 == "X":
+        print("X wins")
+    if a == "O" and i == "O" and q == "O" and y == "O" and g1 == "O" and p1 == "O" and x1 == "O":
+        print("O wins")
+    if g == "X" and m == "X" and s == "X" and y == "X" and e1 == "O" and k1 == "X" and r1 == "X":
+        print("X wins")
+    if g == "O" and m == "O" and s == "O" and y == "O" and e1 == "O" and k1 == "O" and r1 == "O":
+        print("O wins")
 
 myButton1 = Button(root, text="3x3", command=myClick1, fg="white", bg="black", padx=50, pady=3)
 myButton1.pack()
